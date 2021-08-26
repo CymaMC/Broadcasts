@@ -22,9 +22,5 @@
   {
     "id": "island",
     "message": "\n&7Interested in building an island for Cyma? Try checking out our Discord server! &e/discord\n "
-  },
-  {
-    "id": "welcome",
-    "message": "\n \n \n&7Hey there! Welcome to &e&lCyma. Type &e/is &7to get started.\n "
   }
 ]
