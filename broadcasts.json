@@ -25,6 +25,6 @@
   },
   {
     "id": "welcome",
-    "message": "\n \n \n&7Hey there! Welcome to Cyma. Type &d/is &7to get started.\n "
+    "message": "\n \n \n&7Hey there! Welcome to &e&lCyma. Type &e/is &7to get started.\n "
   }
 ]
